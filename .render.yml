@@ -1,0 +1,3 @@
+version: 1
+rootDirectory: server
+buildCommand: npm run build
